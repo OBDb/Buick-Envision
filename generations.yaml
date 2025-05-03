@@ -1,0 +1,10 @@
+generations:
+  - name: "First Generation"
+    start_year: 2014
+    end_year: 2020
+    description: "The first-generation Buick Envision was a compact luxury crossover initially launched in China before being introduced to North America in 2016. Built on GM's Delta II platform, it slotted between the subcompact Encore and the larger Enclave in Buick's lineup. In North America, it was powered by a 2.0L turbocharged four-cylinder engine producing 252 HP, paired with a six-speed automatic transmission and standard all-wheel drive. A 2.5L naturally aspirated four-cylinder with 197 HP was added later as a more affordable option. The interior featured premium appointments including available leather seating, heated/ventilated front seats, and an 8-inch infotainment system. The Envision offered generous standard safety features and a comfortable, quiet ride in keeping with Buick's positioning as a premium brand."
+
+  - name: "Second Generation"
+    start_year: 2021
+    end_year: null
+    description: "The second-generation Envision features more athletic styling with a lower, wider stance and sharper design elements aligned with Buick's modern design language. Built on GM's E2XX platform shared with the Cadillac XT4, it's powered by a 2.0L turbocharged four-cylinder engine producing 228 HP and 258 lb-ft of torque, paired with a nine-speed automatic transmission. Available in front-wheel or all-wheel drive configurations, the new Envision emphasizes technology with a standard 10.2-inch touchscreen (on higher trims), wireless Apple CarPlay and Android Auto, and enhanced driver assistance features. The interior quality saw significant improvements with more premium materials and a driver-focused cockpit design. The Avenir trim level serves as the flagship, offering unique styling elements and luxury features including quilted leather seats, navigation, and a driver assistance technology package. This generation represents Buick's effort to create a more distinctive, upscale product in the competitive compact luxury crossover segment."
