@@ -50,4 +50,7 @@ supported_commands_by_ecu:
   - 01A6:ODO
 unsupported_commands_by_ecu:
   "760":
+  - 760.760.224051:BUICK_VSS_FL
+  - 760.760.224052:BUICK_VSS_FR
   - 760.760.224053:BUICK_VSS_RL
+  - 760.760.224054:BUICK_VSS_RR
