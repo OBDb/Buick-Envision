@@ -555,9 +555,9 @@
   "signals": [
     {"id": "ENVISION_TC_SLIP_VSS_DA18", "path": "Movement", "fmt": { "len": 16, "max": 4095.875, "min": -4096, "mul": 1250, "div": 10000, "sign": true, "unit": "rpm" }, "name": "Torque converter clutch slip speed"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "1B30"}, "freq": 1,
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "1B30"}, "freq": 0.25,
   "signals": [
-    {"id": "ENVISION_CURRENT_GEAR_DA18", "path": "Transmission", "fmt": { "len": 8, "max": 252, "min": -3, "add": -3, "unit": "scalar" }, "name": "Current gear"}
+    {"id": "ENVISION_CURRENT_GEAR_DA18", "path": "Transmission", "fmt": { "len": 8, "max": 252, "min": -3, "add": -3, "unit": "scalar" }, "name": "Current gear", "suggestedMetric": "gear"}
   ]},
 { "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "295A"}, "freq": 1,
   "signals": [
